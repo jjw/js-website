@@ -1,0 +1,177 @@
+/** Variables **/
+
+:root {
+    /* Sizes */
+    --font-size: 14pt;
+    --banner-height: 460px;
+
+    /* Colors */
+    --link-color: #09f;
+    --heading1-color: #94d968d6;;
+    --heading2-color: #b1c5a4d6;
+}
+
+/*
+ * general policy
+ */
+
+body {
+  font-family: system-ui, sans-serif;
+  font-size: var(--font-size);
+}
+
+h1 {
+  colour: var(--heading1-color);
+  padding-top: 1em;
+}
+
+h2 {
+  clear: both;
+  color: var(--heading2-color);
+  padding-top: 1em;
+}
+
+banner img {
+  height: var(--banner-height);
+  width: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+logo img {
+  float: left;
+  height: auto;
+  width: 120px; /* trial and error */
+  object-fit: scale-down;
+  z-index: 1; /* on top of banner image */
+  position: absolute;
+  left: 1%;
+  top: 1%;
+}
+
+content {
+  margin: 2%;
+  display: block;
+  line-height: 135%;
+}
+
+code {
+  text-align: center;
+  font-style: italic;
+  font-size: x-large;
+  margin-left: 20%;
+  display: block;
+  width: 65%;
+  src: url("https://mdn.github.io/shared-assets/fonts/variable-fonts/AmstelvarAlpha-VF.ttf");
+  font-family: "AmstelvarAlpha"; 
+  text-wrap: balance;
+  line-height: 135%;
+}
+
+@media only screen and not (orientation: landscape) {
+  logo img {
+    width: 60px;
+    position: absolute;
+    left: 6px;
+    top: 6px;
+  }
+}
+
+/*
+ * Navigation (menu bar)
+ */
+
+navigation > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--heading2-color); /* defined in js.css */
+}
+
+navigation > ul > li {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+navigation > ul > li a {
+  color: white;
+  font-weight: bold;
+  
+}
+
+navigation > ul > li a:hover {
+  background-color: aquamarine;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+
+/* float image and flow text using dl/dt/dd */
+
+.media {
+  display: grid;
+}
+
+.media__inner dd {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/*
+ * hacks arising from side-effect of markdown, pandoc or soupault
+ */
+ 
+img[src*='#right'] {
+  float: right;
+  padding-left: 12px;
+  object-fit: fill;
+}
+
+img[src*='#left'] {
+  float: left;
+  padding-right: 1em;
+  object-fit: fill;
+}
+
+img[src$='190'] {
+  height: 190px;
+  width: auto;
+  object-fit: scale-down;
+}
+
+img[src*='Daisy'] {
+  height: 240px;
+  width: auto;
+  object-fit: scale-down;
+}
+
+/* pandoc wraps images as figures with a margin-left of 40! */
+figure {
+  margin: 0;
+}
+
+figcaption { /* pandoc puts alt text as a figcaption (wtf?) */
+  display: none;
+}
+
+/* don't show arrows inserted by soupault toc */
+a.here {
+  display:none;
+}
+
+toc::before {
+  content: "Contents:"
+}
+
+toc {
+  display: block;
+  padding-top: 12px;
+}
+
