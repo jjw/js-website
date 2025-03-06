@@ -6,7 +6,7 @@ publish: force
 	git commit -m 'latest updates'
 	eval "$(ssh-agent -s)"
 	ssh-add /home/jjw/.ssh/js_github
-	git push ssh://git@ssh.github.com:443/jackstraws/js-website
+	git push ssh://git@ssh.github.com:443/jjw/js-website
 	
 force:
 	rm -f /tmp/tt
