@@ -49,12 +49,22 @@ logo img {
   top: 1%;
 }
 
+@media only screen and not (orientation: landscape) {
+  logo img {
+    width: 60px;
+    position: absolute;
+    left: 6px;
+    top: 6px;
+  }
+}
+
 content {
   margin: 2%;
   display: block;
   line-height: 135%;
 }
 
+/* overloaded for large text quotations (blockquote already used for banner image) */
 code {
   text-align: center;
   font-style: italic;
@@ -66,15 +76,6 @@ code {
   font-family: "AmstelvarAlpha"; 
   text-wrap: balance;
   line-height: 135%;
-}
-
-@media only screen and not (orientation: landscape) {
-  logo img {
-    width: 60px;
-    position: absolute;
-    left: 6px;
-    top: 6px;
-  }
 }
 
 /*
@@ -114,7 +115,7 @@ navigation > ul > li a:hover {
 
 /* float image and flow text using dl/dt/dd */
 
-.media {
+dl {
   display: grid;
 }
 
@@ -166,12 +167,7 @@ a.here {
   display:none;
 }
 
-toc::before {
-  content: "Contents:"
-}
-
 toc {
   display: block;
-  padding-top: 12px;
 }
 
