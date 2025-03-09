@@ -11,6 +11,10 @@
     --heading2-color: #b1c5a4d6;
 }
 
+.green {
+  color: var(--heading1-color);
+}
+
 /*
  * general policy
  */
@@ -112,24 +116,24 @@ navigation > ul > li a:hover {
   background-color: #04AA6D;
 }
 
-
 /* float image and flow text using dl/dt/dd */
+/* see https://cloudfour.com/thinks/solved-tricky-floating-image-alignment/ */
 
-dl {
+.media /* div inserted by [widget.wrap-media] */ {
   display: grid;
 }
 
-.media__inner dd {
+dl.media_inner {
+  display: block; /* original is a div */
+} 
+
+dd /* .media__content */ {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
 }
 
-/*
- * hacks arising from side-effect of markdown, pandoc or soupault
- */
- 
-img[src*='#right'] {
+img[src*='#right'] /* .media__object */ {
   float: right;
   padding-left: 12px;
   object-fit: fill;
@@ -141,28 +145,16 @@ img[src*='#left'] {
   object-fit: fill;
 }
 
-img[src$='190'] {
-  height: 190px;
-  width: auto;
-  object-fit: scale-down;
-}
-
-img[src*='Daisy'] {
-  height: 240px;
-  width: auto;
-  object-fit: scale-down;
-}
-
 /* pandoc wraps images as figures with a margin-left of 40! */
 figure {
   margin: 0;
 }
 
-figcaption { /* pandoc puts alt text as a figcaption (wtf?) */
+figcaption { /* pandoc puts alt text as a figcaption */
   display: none;
 }
 
-/* don't show arrows inserted by soupault toc */
+/* don't show arrows inserted by soupault toc if configured (default) */
 a.here {
   display:none;
 }

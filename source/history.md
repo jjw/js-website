@@ -8,7 +8,7 @@ Jackstraws Morris was founded in 1977 by former members of Updown Hill Morris fr
 The Early Years
 ---------------
 
-By Jackie Weller (formally Emerson), a founder member and the first Squire: 
+[By Jackie Weller (formally Emerson), a founder member and the first Squire:]{style="color:darkgoldenrod"}
 
 Jackstraws Morris was formed in September 1977. The side was founded on limited experience, bags of enthusiasm, complete dedication and no money. The 12 founder members were as follows:
 
@@ -55,7 +55,7 @@ Our Kit
 
 ![Old kit](/img/oldkit.gif#left)
 
-![New kit](/img/newkit.jpg#right190)
+![New kit](/img/newkit.jpg#right){height=190}
 
 Originally a white, hand made smock with green smocking was worn, based on a traditional Surrey smock design. Jackstraws was one of the first revival women’s teams to wear trousers (in 1977!). The kit was completed with a green neckerchief, white shoes, bell pads with green and white ribbons and a white hat decorated with flowers.
 
@@ -64,13 +64,13 @@ In 2005 we changed our kit to something more modern. The new kit retains the sam
 Daisy
 -----
 
-![Daisy](/img/Daisy.jpg#right)
+![Daisy](/img/Daisy.jpg#right){height=240}
 : On occasions Daisy, a cow, appears with Jackstraws. Daisy was specially made in 1987, our 10th Anniversary year. She is a papier mache carnival head with a brown spotted cloth for a body. She used to have a shy and retiring personality which kept her on the side-lines, entertaining the children in the audience, but since appearing at the Warwick Folk Festival in 2007, she has been an outrageous scene-stealer.
 
 Our 21st Birthday
 -----------------
 
-By Sue Hamer-Moss, Bagperson
+[By Sue Hamer-Moss, Bagperson]{style="color:darkgoldenrod"}
 
 In 1999 Jackstraws were 21 years old and we celebrated in style on 20th June in Farnham, Surrey. Braving the fortunately very short-lived drizzle, Jackstraws and 6 invited guest sides celebrated with generous amounts of Bucks Fizz in scenic Farnham Castle before dancing their way around Farnham for the day – not too far away from the many hostelries!! A pageantry of colour, music, dancing styles – Cotswold, Border and North West – not to mention strange mascots, greeted the citizens of Farnham as we progressed around the town.
 
@@ -81,7 +81,7 @@ Our thanks to our guests – Alton, Fleet, Pigsty, Rose and Castle, Windsor and 
 Jackstraws at 40
 ----------------
 
-![Cake](/img/cake.jpg#right190)
+![Cake](/img/cake.jpg#left){height=140}
 : In 2018 we celebrated our 40th anniversary in style, enjoying a Day of Dance in our home town of Farnham. Joining us on the day were our friends from Hook Eagle Border Morris, Pilgrim Morris Men, Fleur de Lys Morris and Fleet Morris. Festivities with tea, cake and beer after the dancing was concluded.</p>
 
 

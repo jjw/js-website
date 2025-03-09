@@ -3,33 +3,33 @@ Where will we be this year?
 
 ## April
 Wed 23rd From 7.30 p.m. St George’s Day celebrations  
-with Hook Eagle Morris in Odiham
+  with Hook Eagle Morris in Odiham
 
 ## May
 Sat 3rd All day Summerpole celebrations  
-Guildford
+  with Pilgrim Morris in Guildford
              
 Sat 10th All day Broadwood Morris Day of Dance  
-	           Horsham, Sussex
+  Horsham, Sussex
              
 Mon 19th 8.00 p.m. Evening with Basing Clog  
-	The Anchor, North Warnborough RG29 1BE
+  The Anchor, North Warnborough RG29 1BE
   
 Fri 30th 8.00 p.m. Evening with Hook Eagle Morris  
- 	The Hop Blossom, Long Garden Walk, Farnham GU9 7HX
+  The Hop Blossom, Long Garden Walk, Farnham GU9 7HX
 
 ## June
 Mon 2nd 8.00 p.m. Evening with Mayflower Morris  
-	The Shepherd and Flock, Moor Park Lane, Farnham GU9 9JB
+  The Shepherd and Flock, Moor Park Lane, Farnham GU9 9JB
   
 Mon 2nd 8.00 p.m. Evening with Customs and Exiles  
-		The Crown, Badshot Lea GU9 9JS
+  The Crown, Badshot Lea GU9 9JS
     
 Mon 16th 8.00 p.m. Evening with Datchet Border Morris  
-	The Brickmakers, Windlesham GU20 6HT
+  The Brickmakers, Windlesham GU20 6HT
   
 Mon 23rd 8.00 p.m. Evening with Fleet Morris  
-	The Hop Blossom, Long Garden Walk, Farnham GU9 7HX
+  The Hop Blossom, Long Garden Walk, Farnham GU9 7HX
   
 27th -29th Queen’s Oak and Rose and Castle Weekend of Dance  
 	Northamptonshire
@@ -53,4 +53,4 @@ Sun 3rd 11.00a.m. Sidmouth Folk Festival: Dancing on the Esplanade
 
 ## December
 Boxing Day 1.00p.m. Dancing and Mummer’s Play   
-		The Alfred, Upper Hale GU9 0JA
+  The Alfred, Upper Hale GU9 0JA
