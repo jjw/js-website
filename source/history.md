@@ -32,7 +32,9 @@ The Jackstraws Day of Dance for years was always held in September. The first Da
 Our practice (and post-practice) venues
 ---------------------------------------
 
-Morris teams are often strongly associated with a location or area of the country. The team was originally a break-away from Updown Hill Morris, based in Windlesham near Bagshot, and many of the members lived in that area.
+Morris teams are often strongly associated with a location or area of the country. Jackstraws have always been based in the Surrey/Hampshire borders. 
+
+The team was originally a break-away from Updown Hill Morris, based in Windlesham near Bagshot, and many of the members lived in that area.
 
 Mondays were chosen as the practice night, due to members’ commitments on other nights and a suitable hall was found in the picturesque village of Pirbright on the army ranges north of Aldershot. The Red Cross Hall on Dawney Hill was a reasonable size – we even held our annual barn dance there, but it has to be said it was very cosy! At one point we had so many dancers coming to practice we felt we needed a bigger hall. We tried a hall in West End, to the west of Woking, but the acoustics weren’t great, and we returned to Pirbright.  
 
@@ -82,7 +84,7 @@ Jackstraws at 40
 ----------------
 
 ![Cake](/img/cake.jpg#left){height=140}
-: In 2018 we celebrated our 40th anniversary in style, enjoying a Day of Dance in our home town of Farnham. Joining us on the day were our friends from Hook Eagle Border Morris, Pilgrim Morris Men, Fleur de Lys Morris and Fleet Morris. Festivities with tea, cake and beer after the dancing was concluded.</p>
+: In 2018 we celebrated our 40th anniversary, enjoying a Day of Dance in our home town of Farnham. Joining us on the day were our friends from Hook Eagle Border Morris, Pilgrim Morris Men, Fleur de Lys Morris and Fleet Morris. Festivities with tea, cake and beer after the dancing was concluded.</p>
 
 
 The Future
