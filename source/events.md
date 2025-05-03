@@ -55,8 +55,6 @@ Fri 27th 8.00 p.m. Evening with Alton Morris
 Sun 3rd 11.00a.m. Sidmouth Folk Festival: Dancing on the Esplanade
 
 ## September
-Sat 13th All day Yateley Morris 50th Annivsary day of dance (TBC)
-
 Sat 20th-Sun 21st weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/),  
   Taunton.
 
