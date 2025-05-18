@@ -13,7 +13,7 @@ Sat 3rd All day [Summerpole celebrations](https://www.pilgrimmorris.org.uk/summe
              
 Sat 10th All day Broadwood Morris Day of Dance, Horsham, Sussex
              
-Mon 19th 8.00 p.m. Evening with Basing Clog (TBC) at
+Mon 19th 8.00 p.m. Evening with Basing Clog at
   [The Anchor](https://camra.org.uk/pubs/anchor-inn-north-warnborough-179278), North Warnborough RG29 1BE
   
 Fri 30th 8.00 p.m. Evening with Hook Eagle Morris at
@@ -41,9 +41,9 @@ Sat 5th afternoon [Hale Carnival](https://www.halecarnival.co.uk/) at
 Mon 7th 8.00 p.m. Evening with Ellington Morris at
 	[The Queen’s Oak](https://camra.org.uk/pubs/queens-oak-finchampstead-152123), Finchampstead RG40 4LS
   
-Sat 12th All day Victory Morris Day of Dance, Portsmouth (TBC)
+Sat 12th All day Victory Morris Day of Dance, Portsmouth
 
-Wed 25th 8.00 p.m. Evening with Pilgrim Morris (TBC) at
+Wed 25th 8.00 p.m. Evening with Pilgrim Morris at
 		[The Alfred](https://camra.org.uk/pubs/alfred-free-house-upper-hale-150998), Upper Hale GU9 0JA
     
 Fri 27th 8.00 p.m. Evening with Alton Morris at
