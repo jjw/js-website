@@ -53,7 +53,7 @@ Fri 27th 8.00 p.m. Evening with Alton Morris at
 Sun 3rd 11.00a.m. Sidmouth Folk Festival: Dancing on the Esplanade
 
 ## September
-Sat 20th-Sun 21st weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton.
+Sat 20th-Sun 21st possible weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton (TBC).
 
 ## December
 Boxing Day 1.00p.m. Dancing and Mummer’s Play at
