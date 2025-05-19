@@ -1,4 +1,5 @@
 ---
+title: Join Us
 banner: img/2024-Sidmouth-Sunday-resized.jpg
 ---
 # Join In
