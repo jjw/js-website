@@ -1,4 +1,5 @@
 ---
+title: Contact us
 banner: img/sticks.jpg
 ---
 # Contact Us
