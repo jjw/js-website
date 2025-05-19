@@ -60,7 +60,7 @@ In 2005 we changed our kit to something more modern. The new kit retains the sam
 
 ## Daisy
 
-![Daisy](/img/Daisy.jpg#right){height=240} On occasions Daisy, a cow, appears with Jackstraws. Daisy was specially made in 1987, our 10th Anniversary year. She is a papier mache carnival head with a brown spotted cloth for a body. She used to have a shy and retiring personality which kept her on the side-lines, entertaining the children in the audience, but since appearing at the Warwick Folk Festival in 2007, she has been an outrageous scene-stealer.
+![Daisy](/img/Daisy.jpg#right){height=240} On occasions Daisy, a cow, appears with Jackstraws. Daisy was specially made in 1987, our 10th Anniversary year. She is a papier-mache carnival head with a brown spotted cloth for a body. She used to have a shy and retiring personality which kept her on the side-lines, entertaining the children in the audience, but since appearing at the Warwick Folk Festival in 2007, she has been an outrageous scene-stealer.
 
 ## Our 21st Birthday
 
