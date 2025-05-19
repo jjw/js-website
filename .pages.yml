@@ -8,6 +8,6 @@ content:
     path: source
     type: collection
     fields:
-      - { name: title, label: Title, type: String, options: maxlength: 36 }
+      - { name: title, label: Title, type: string, options: { maxlength: 36 } }
       - { name: body, label: Page Text, type: rich-text }
       - { name: banner, label: Banner Image, type: image }
