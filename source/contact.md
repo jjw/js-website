@@ -1,7 +1,6 @@
 ---
+banner: img/sticks.jpg
 ---
-> sticks.jpg 50 31
-
 # Contact Us
 
 We welcome enquiries from those looking to join our friendly team or book us for an event.
