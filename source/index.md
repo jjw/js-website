@@ -1,7 +1,7 @@
-> in-windsor.jpg 50 31
-
-Jackstraws Morris
-=================
+---
+banner: img/in-windsor.jpg
+---
+# Jackstraws Morris
 
 Welcome to the Jackstraws Morris website. We are a Cotswold Morris side formed in 1977 and based in Farnham in Surrey, where we practice from September to April.
 
