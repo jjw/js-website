@@ -1,4 +1,5 @@
 ---
+title: Jackstraws past to present
 banner: img/2023-Sidmouth-group-resized.jpg
 ---
 # Jackstraws past to present
