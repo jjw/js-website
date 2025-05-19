@@ -12,7 +12,7 @@ Jackstraws Morris was founded in 1977 by former members of Updown Hill Morris fr
 
 Jackstraws Morris was formed in September 1977. The side was founded on limited experience, bags of enthusiasm, complete dedication and no money. The 12 founder members were as follows:
 
-![Early members](/img/earlystraws.gif#left) : Jackie Emerson (Squire); Sandy Grigson (Bag-person); Anne Manley (Treasurer);  
+![Early members](/img/earlystraws.gif#left) Jackie Emerson (Squire); Sandy Grigson (Bag-person); Anne Manley (Treasurer);  
 Maggie Lawrance; Angela Rowe; Pip Paget; Jill Jackson; Jane Porter (Fool);  
 Barbara Porter (Musician); Ivan North (Musician); Pete Rowe (Forman); Pete Lister
 
