@@ -5,7 +5,7 @@ media:
 content:
   - name: pages
     label: Pages
-    path: site/test.md
+    path: source
     type: collection
     fields:
       - { name: image, label: Picture, type: image }
