@@ -1,5 +1,5 @@
 ---
-image: img/Daisy.jpg
+banner: img/Daisy.jpg
 ---
 # Where will we be this year?
 
