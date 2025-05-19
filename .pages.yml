@@ -8,5 +8,5 @@ content:
     path: source
     type: collection
     fields:
-      - { name: image, label: Picture, type: image }
+      - { name: banner, label: Banner Image, type: image }
       - { name: body, label: Page Text, type: rich-text }
