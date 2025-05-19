@@ -1,4 +1,5 @@
 ---
+title: Jackstraws Morris
 banner: img/in-windsor.jpg
 ---
 # Jackstraws Morris
