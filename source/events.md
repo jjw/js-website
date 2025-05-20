@@ -41,9 +41,9 @@ Mon 7th 8.00 p.m. Evening with Ellington Morris at [The Queen’s Oak](https://c
 
 Sat 12th All day Victory Morris Day of Dance, Portsmouth
 
-Wed 25th 8.00 p.m. Evening with Pilgrim Morris at [The Alfred](https://camra.org.uk/pubs/alfred-free-house-upper-hale-150998), Upper Hale GU9 0JA
+Wed 23rd 8.00 p.m. Evening with Pilgrim Morris at [The Alfred](https://camra.org.uk/pubs/alfred-free-house-upper-hale-150998), Upper Hale GU9 0JA
 
-Fri 27th 8.00 p.m. Evening with Alton Morris at [The Hop Blossom](https://camra.org.uk/pubs/hop-blossom-farnham-150608), Long Garden Walk, Farnham GU9 7HX
+Fri 25th 8.00 p.m. Evening with Alton Morris at [The Hop Blossom](https://camra.org.uk/pubs/hop-blossom-farnham-150608), Long Garden Walk, Farnham GU9 7HX
 
 ## August
 
