@@ -1,6 +1,6 @@
 ---
-title: Come see us
-banner: img/Daisy.jpg
+title: Come and see us
+banner: img/2024 Stoke Bruerne.webp
 ---
 # Where will we be this year?
 
