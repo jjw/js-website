@@ -9,7 +9,6 @@ publish: force
 	git push ssh://git@ssh.github.com:443/jjw/js-website
 	
 force:
-	git pull
 	soupault --force
   
 clean:
