@@ -51,7 +51,7 @@ Sun 3rd 11.00a.m. Sidmouth Folk Festival: Dancing on the Esplanade
 
 ## September
 
-Sat 20th-Sun 21st possible weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton (TBC).
+Sat 20th-Sun 21st Weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton (TBC).
 
 ## December
 
