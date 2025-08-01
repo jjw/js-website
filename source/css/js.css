@@ -26,7 +26,6 @@ body {
 
 h1 {
   colour: var(--heading1-color);
-  padding-top: 1em;
 }
 
 h2 {
@@ -39,7 +38,6 @@ banner img {
   height: var(--banner-height);
   width: 100%;
   object-fit: cover;
-  z-index: -1;
 }
 
 logo img {
@@ -47,7 +45,7 @@ logo img {
   height: auto;
   width: 120px; /* trial and error */
   object-fit: scale-down;
-  z-index: 1; /* on top of banner image */
+  z-index: 2; /* on top of banner image */
   position: absolute;
   left: 1%;
   top: 1%;

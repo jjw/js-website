@@ -1,7 +1,3 @@
----
-title: About us
-banner: img/2023-Sidmouth-group-resized.jpg
----
 # Jackstraws past to present
 
 Jackstraws Morris was founded in 1977 by former members of Updown Hill Morris from Windlesham, and first danced out on Boxing Day of that year, at the White Hart Inn in Pirbright. Until 1996 the side was based in the village of Pirbright in Surrey. We moved to Farnborough in Hampshire after the Red Cross hall in which we used to practise was demolished, and then spent our Monday evenings honing our skills in a local school’s assembly hall. In 2006, we moved back to Surrey, and we now practise in the Hale Institute Hall, Hale, near Farnham.
@@ -79,3 +75,5 @@ Our thanks to our guests – Alton, Fleet, Pigsty, Rose and Castle, Windsor and 
 ## The Future
 
 We are proud of our history our high standards of dance and performance – to help us continue we need new members to join our friendly team – contact us to find out more.
+
+<banner-photo src="/img/2023-Sidmouth-group-resized.jpg"></banner-photo>

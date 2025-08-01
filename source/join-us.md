@@ -1,7 +1,3 @@
----
-title: Join Us
-banner: img/2024-Sidmouth-Sunday-resized.jpg
----
 # Join In
 
 We run taster sessions every Autumn where you can learn a traditional morris dance with our friendly team at the Hale Institute Hall in Upper Hale, Farnham, GU9 0HN. If you want to join at other times of the year, please contact us.
@@ -17,3 +13,5 @@ In the summer we can be seen performing at fetes, festivals and special events a
 From a new member who joined Jackstraws following one of our taster evenings.
 
 Get in touch if you’d like more information.
+
+<banner-photo src="/img/2024-Sidmouth-Sunday-resized.jpg"></banner-photo>
