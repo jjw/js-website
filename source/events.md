@@ -49,6 +49,8 @@ Fri 25th 8.00 p.m. Evening with Alton Morris at [The Hop Blossom](https://camra.
 
 Sun 3rd 11.00a.m. Sidmouth Folk Festival: Dancing on the Esplanade
 
+Tues 19th 8pm [The Phoenix Inn](https://camra.org.uk/pubs/phoenix-hartley-wintney-179305), Hartley Wintney (RG27 8RT) and 8:45 [The Winchfield Inn](https://camra.org.uk/pubs/winchfield-inn-winchfield-151453), Winchfield (RG27 8BX) as Guests of Yateley Morris
+
 ## September
 
 Sat 20th-Sun 21st Weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton (TBC).

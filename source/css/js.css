@@ -139,11 +139,33 @@ img[src*='#right'] /* .media__object */ {
   object-fit: fill;
 }
 
+img[src*='#right-190'] /* .media__object */ {
+  float: right;
+  padding-left: 12px;
+  object-fit: fill;
+  height: 190px;
+}
+
+img[src*='#right-240'] /* .media__object */ {
+  float: right;
+  padding-left: 12px;
+  object-fit: fill;
+  height: 240px;
+}
+
 img[src*='#left'] {
   float: left;
   padding-right: 1em;
   object-fit: fill;
 }
+
+img[src*='#left-140'] {
+  float: left;
+  padding-right: 1em;
+  object-fit: fill;
+  height: 140px;
+}
+
 
 /* pandoc wraps images as figures with a margin-left of 40! */
 figure {
