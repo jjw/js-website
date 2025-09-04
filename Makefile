@@ -13,7 +13,7 @@ push:
 publish: force commit push
 	
 force:
-	soupault --force
+	/home/jjw/Docs/Code/bin/soupault --force
   
 clean:
 	rm -r public/
