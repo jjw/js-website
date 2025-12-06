@@ -1,12 +1,12 @@
 # Where can you see us next?
 
 Friday 26th December **Boxing Day** 1pm at [The Alfred](https://camra.org.uk/pubs/alfred-free-house-upper-hale-150998), Upper Hale GU9 0JA. 
-Dancing to carol tunes followed by our annual **Mummer's play**.
+Dancing to carol tunes followed by our annual **Mummers play**.
 
 **All events are subject to the possibility of change or cancellation at short notice, especially due to adverse weather conditions. If you are travelling a long way to see us (thank you!) please** [**contact us**](/contact/) **nearer the time to confirm current arrangements.**
 
 
-# Where have we been ths year?
+# Where have we been this year?
 
 ## April
 
@@ -55,9 +55,11 @@ Sun 3rd 11.00a.m. Sidmouth Folk Festival: Dancing on the Esplanade
 
 Tues 19th 8pm [The Phoenix Inn](https://camra.org.uk/pubs/phoenix-hartley-wintney-179305), Hartley Wintney (RG27 8RT) and 8:45 [The Winchfield Inn](https://camra.org.uk/pubs/winchfield-inn-winchfield-151453), Winchfield (RG27 8BX) as Guests of Yateley Morris
 
-## September
+## December
 
-Sat 20th-Sun 21st Weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton (TBC).
+Wed 3rd 12:30 Modelling for animated drawing class, University of the Creative Arts, Farnham.
+
+Sat 6th 11:30am the Christmas Tree Festival, St George's Church, Badshot Lea.
 
 <banner-photo src="/img/2024-Stoke-Bruerne.webp"></banner-photo>
 
