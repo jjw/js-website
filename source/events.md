@@ -1,4 +1,12 @@
-# Where will we be this year?
+# Where can you see us next?
+
+Friday 26th December **Boxing Day** 1pm at [The Alfred](https://camra.org.uk/pubs/alfred-free-house-upper-hale-150998), Upper Hale GU9 0JA. 
+Dancing to carol tunes followed by our annual **Mummer's play**.
+
+**All events are subject to the possibility of change or cancellation at short notice, especially due to adverse weather conditions. If you are travelling a long way to see us (thank you!) please** [**contact us**](/contact/) **nearer the time to confirm current arrangements.**
+
+
+# Where have we been ths year?
 
 ## April
 
@@ -50,12 +58,6 @@ Tues 19th 8pm [The Phoenix Inn](https://camra.org.uk/pubs/phoenix-hartley-wintne
 ## September
 
 Sat 20th-Sun 21st Weekend of dance with [Sweet Coppin Clog](https://sweetcoppinclog.wordpress.com/), Taunton (TBC).
-
-## December
-
-Boxing Day 1.00p.m. Dancing and Mummer’s Play at [The Alfred](https://camra.org.uk/pubs/alfred-free-house-upper-hale-150998), Upper Hale GU9 0JA
-
-**All events are subject to the possibility of change or cancellation at short notice, especially due to adverse weather conditions. If you are travelling a long way to see us (thank you!) please** [**contact us**](/contact/) **nearer the time to confirm current arrangements.**
 
 <banner-photo src="/img/2024-Stoke-Bruerne.webp"></banner-photo>
 
