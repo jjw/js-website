@@ -25,8 +25,6 @@ Monday 1st June, from 8pm, dancing with Mayflower Morris at [The Princess Royale
 
 Monday 8th June, from 8pm, dancing at [The Crown](https://camra.org.uk/pubs/crown-inn-badshot-lea-150286), Badshot Lea GU9 9JS
 
-Saturday 13th June 11-3pm at St George's Fete, Badshot Lea.
-
 Monday 16th June, from 8pm, dancing with Basingclog at [The Phoenix Inn](https://camra.org.uk/pubs/phoenix-hartley-wintney-179305), Hartley Witney, RG27 8RT.
 
 Monday 22nd June, from 8pm, dancing with Fleet at the [The Hop Blossom](https://camra.org.uk/pubs/hop-blossom-farnham-150608), Long Garden Walk, Farnham GU9 7HX.
