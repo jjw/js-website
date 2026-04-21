@@ -23,11 +23,11 @@ Friday 29th May, from 7:30pm, dancing with Hook Eagle at [The Crown](https://cam
 
 Monday 1st June, from 8pm, dancing with Mayflower Morris at [The Princess Royale](https://camra.org.uk/pubs/princess-royal-runfold-151017), Runfold, GU10 1NX.
 
-Monday 8th June, from 8pm, dancing at [The Crown](https://camra.org.uk/pubs/crown-inn-badshot-lea-150286), Badshot Lea GU9 9JS
+Monday 8th June, from 8pm, dancing at [The Crown](https://camra.org.uk/pubs/crown-inn-badshot-lea-150286), Badshot Lea GU9 9JS.
 
-Monday 16th June, from 8pm, dancing with Basingclog at [The Phoenix Inn](https://camra.org.uk/pubs/phoenix-hartley-wintney-179305), Hartley Witney, RG27 8RT.
+Monday 16th June, from 8pm, dancing with Basingclog Morris at [The Phoenix Inn](https://camra.org.uk/pubs/phoenix-hartley-wintney-179305), Hartley Witney, RG27 8RT.
 
-Monday 22nd June, from 8pm, dancing with Fleet at the [The Hop Blossom](https://camra.org.uk/pubs/hop-blossom-farnham-150608), Long Garden Walk, Farnham GU9 7HX.
+Monday 22nd June, from 8pm, dancing with Fleet Morris at the [The Hop Blossom](https://camra.org.uk/pubs/hop-blossom-farnham-150608), Long Garden Walk, Farnham GU9 7HX.
 
 26th-28th June dancing as guests of Queen's Oak and Rose & Castle Morris.
 
